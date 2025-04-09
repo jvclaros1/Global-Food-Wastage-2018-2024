@@ -1,4 +1,4 @@
-# Global Food Waste dashboard_snapo
+# Global Food Waste dashboard
 
 
 ## Problem Statement
